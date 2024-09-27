@@ -1,16 +1,9 @@
- # Arthur9-dev GitHub Profile
 
 - 💬 Contate-me: [gutembergarthur876@gmail.com](mailto:gutembergarthur876@gmail.com)
 <div align="left">
    <div align="left">
   <img src="https://github.com/user-attachments/assets/51fc98c9-3aff-45a1-a3ae-4cf9a4652072"  style="width: 300px;" />
 </div>
-<div align="left">
-   <div align="left">
-  <img src= " " style="width: 300px;" />
-</div>
-
-
  
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Arthur9-dev&icons=true&theme=transparent&hide_border=true" alt="Arthur9-dev GitHub stats" style="max-width: 50%;"/>
