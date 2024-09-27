@@ -1,9 +1,7 @@
-
-- 💬 Contate-me: [gutembergarthur876@gmail.com](mailto:gutembergarthur876@gmail.com)
-<div align="left">
-   <div align="left">
-  <img src="https://github.com/user-attachments/assets/51fc98c9-3aff-45a1-a3ae-4cf9a4652072"  style="width: 300px;" />
+<div style="width: 100%; overflow: hidden;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm4wYWNqaDBrNXd3bWE4ejZud2gycmRieTZqZWxqN2t4MnhhNDh1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ExWdLKTCaz16/giphy.gif" style="width: 20000px; height: 300px;" />
 </div>
+ 
  
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Arthur9-dev&icons=true&theme=transparent&hide_border=true" alt="Arthur9-dev GitHub stats" style="max-width: 50%;"/>
@@ -24,3 +22,8 @@
  <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
  <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
+<div align="left">
+   <div align="left">
+  <img src="https://github.com/user-attachments/assets/51fc98c9-3aff-45a1-a3ae-4cf9a4652072"  style="width: 300px;" />
+</div>
