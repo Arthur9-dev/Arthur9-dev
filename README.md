@@ -26,3 +26,9 @@
    <div align="left">
   <img src="https://github.com/user-attachments/assets/51fc98c9-3aff-45a1-a3ae-4cf9a4652072"  style="width: 300px;" />
 </div>
+<div>
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3E3EFF&width=435&lines=Obrigado+pela+aten%C3%A7%C3%A3o)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3E3EFF&section=footer" 
+style="width: 20000px; height: 300px;" />
+</div>
