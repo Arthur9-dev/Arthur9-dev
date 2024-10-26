@@ -2,7 +2,8 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm4wYWNqaDBrNXd3bWE4ejZud2gycmRieTZqZWxqN2t4MnhhNDh1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ExWdLKTCaz16/giphy.gif" style="width: 20000px; height: 300px;" />
 </div>
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3e3eff&background=FFFFFF00&width=435&lines=ola+eu+me+chamo+Arthur!+;tenho+15+Anos++;Sou+estudante+de+DS)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3e3eff&background=FFFFFF00&width=435&lines=Hi,+my+name+is+Arthur!+;I'm+15+years+old++;I'm+a+DS+student)](https://git.io/typing-svg)
+
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Arthur9-dev&icons=true&theme=transparent&hide_border=true" alt="Arthur9-dev GitHub stats" style="max-width: 50%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur9-dev&layout=compact&theme=transparent&hide_border=true&langs_count=10&custom_title=Top%20Languages" alt="Top Languages" style="max-width: 50%;"/>
@@ -28,7 +29,8 @@
 </div>
 <div>
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3E3EFF&width=435&lines=Obrigado+pela+aten%C3%A7%C3%A3o)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3E3EFF&width=435&lines=Thank+you+for+your+attention)](https://git.io/typing-svg)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3E3EFF&section=footer" 
-style="width: 20000px; height: 300px;" />
+style="width: 20000px; height: 200px;" />
 </div>
