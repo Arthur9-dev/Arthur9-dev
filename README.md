@@ -1,90 +1,58 @@
-# Arthur Gutemberg
-
-**Estudante de Desenvolvimento de Sistemas (3º ano) – ETEC Zona Leste, São Paulo**
-
----
-
-### Escolha o idioma / Choose language
-
-[![🇧🇷 Ler em Português](https://img.shields.io/badge/🇧🇷_Ler_em_Português-007ACC?style=for-the-badge&logo=readme&logoColor=white)](/#portuguese)
-
-[![🇺🇸 Read in English](https://img.shields.io/badge/🇺🇸_Read_in_English-007ACC?style=for-the-badge&logo=readme&logoColor=white)](/#english)
+ <div align="center">
+  <h1>Arthur Gutemberg</h1>
+  <h2>Full Stack Developer</h2>
+  <p>Systems Development Student at ETEC Zona Leste – São Paulo, Brazil 🇧🇷</p>
+</div>
 
 ---
 
-<a id="portuguese"></a>
+### About Me
+Full Stack Developer in training focused on building complete and well-structured applications.
 
-### 🇧🇷 Versão em Português
+Currently studying **Systems Development** at **ETEC Zona Leste** and participated in the **IBM P-Tech program**, where I developed practical projects involving front-end, back-end, and databases.
 
-Olá, sou o Arthur. Estou no 3º ano de Desenvolvimento de Sistemas na ETEC Zona Leste 
+I value understanding the fundamentals, because frameworks may change, but logic remains.
 
-#### Tecnologias que domino (aprendidas na escola)
-- **HTML & CSS** – Criação de interfaces responsivas e bem estruturadas  
-- **JavaScript** – Lógica de programação e interatividade no front-end  
-- **Java** – Algoritmos, estruturas de dados e desenvolvimento back-end  
-
-#### Aprendizados em andamento (prioridade para emprego)
-- **TypeScript** – JavaScript com tipagem forte  
-- **React** – Desenvolvimento de interfaces componentizadas  
-- **Spring Boot** – Criação de APIs REST com Java  
-- **SQL / MySQL** – Bancos de dados relacionais  
-- **Docker** – Conteinerização para deploy profissional  
-
-Planejo concluir esses cursos até meados de 2026 e adicionar os certificados aqui.
-
-#### Atividades complementares
-- Programa IBM P-TECH (atividades e palestras concluídas)  
-- Horas complementares registradas no SkillBuild  
-
-#### Projetos em destaque
-- **Vixel Sports** – Loja de roupas (TCC em desenvolvimento)  
-- **Algoritmos em Java** – Estruturas de dados e algoritmos  
-- Projetos iniciais com HTML, CSS e JavaScript  
-
-#### Contato
-- Instagram: [@gutemberg190](https://www.instagram.com/gutemberg190/)  
-- LinkedIn: [seu-perfil](https://www.linkedin.com/in/seu-perfil)  
-- E-mail: seuemail@gmail.com  
+ **English:** B2 – Upper Intermediate
 
 ---
 
-<a id="english"></a>
-
-### 🇺🇸 English Version
-
-Hello, I'm Arthur. I'm in the 3rd year of Systems Development at ETEC Zona Leste and I'm looking for my first opportunity as a **Junior Fullstack or Backend Developer** in 2026.
-
-Currently finishing my **TCC** and preparing for the job market with focus on practical and modern technologies.
-
-#### Technologies I master (learned at school)
-- **HTML & CSS** – Responsive and well-structured interfaces  
-- **JavaScript** – Programming logic and front-end interactivity  
-- **Java** – Algorithms, data structures and back-end development  
-
-#### Currently learning (priority for employment)
-- **TypeScript** – Strongly typed JavaScript  
-- **React** – Componentized interface development  
-- **Spring Boot** – REST APIs with Java  
-- **SQL / MySQL** – Relational databases  
-- **Docker** – Containerization for professional deployment  
-
-I plan to complete these courses by mid-2026 and add the certificates here.
-
-#### Complementary activities
-- IBM P-TECH Program (activities and lectures completed)  
-- Complementary hours registered on SkillBuild  
-
-#### Featured projects
-- **Vixel Sports** – Clothing store (TCC in development)  
-- **Algorithms in Java** – Data structures and algorithms  
-- Initial projects with HTML, CSS and JavaScript  
-
-#### Contact
-- Instagram: [@gutemberg190](https://www.instagram.com/gutemberg190/)  
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)  
-- E-mail: your.email@gmail.com  
+### Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql,git,python,typescript,react,spring,docker" alt="Technologies" />
+</p>
 
 ---
 
-> Frameworks mudam, mas a lógica e os fundamentos permanecem.  
-> Frameworks change, but logic and fundamentals remain.
+### Featured Projects
+
+**Vixel Sports – E-commerce Platform**  
+Complete online store with product catalog, cart system, and database integration (developed during the IBM P-Tech program).  
+→ [View repository](https://github.com/ArthurGutemberg9/Projeto-IBM-)
+
+**Snow Ball – Financial Planning Platform**  
+Web platform designed to help people organize their income, manage debts, and plan financial goals.  
+→ [View repository]()
+
+**Vigilan – Intelligent Monitoring System**  
+Web platform designed to help people organize their income, manage debts, and plan financial goals.  
+→ [View repository](https://github.com/ArthurGutemberg9/Vigilan---Sistema-de-Monitoramento-Inteligente)
+
+---
+
+### Education
+- **Technical Degree in Systems Development** — ETEC Zona Leste (in progress)
+- **IBM P-Tech Program** — Participation in courses and practical projects focused on software development and cloud computing
+
+---
+
+### Contact
+- Instagram: [@gutemberg190](https://www.instagram.com/gutemberg190/)
+- LinkedIn: (https://www.linkedin.com/in/arthur-g-83247b3b2/)
+- Email: (gutembergarthur876@gmail.com)
+
+I am open to internship opportunities, collaborations, and feedback.
+
+---
+
+**“Frameworks change, but logic remains.”**
