@@ -1,36 +1,90 @@
-<div style="width: 100%; overflow: hidden;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm4wYWNqaDBrNXd3bWE4ejZud2gycmRieTZqZWxqN2t4MnhhNDh1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ExWdLKTCaz16/giphy.gif" style="width: 20000px; height: 300px;" />
-</div>
- 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3e3eff&background=FFFFFF00&width=435&lines=Hi,+my+name+is+Arthur!+;I'm+16+years+old++;I'm+a+DS+student)](https://git.io/typing-svg)
+# Arthur Gutemberg
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthur9-dev&icons=true&theme=transparent&hide_border=true" alt="Arthur9-dev GitHub stats" style="max-width: 50%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur9-dev&layout=compact&theme=transparent&hide_border=true&langs_count=10&custom_title=Top%20Languages" alt="Top Languages" style="max-width: 50%;"/>
-</div>
+**Estudante de Desenvolvimento de Sistemas (3º ano) – ETEC Zona Leste, São Paulo**
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" style="display: inline-block; vertical-align: middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" style="display: inline-block; vertical-align: middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" style="display: inline-block; vertical-align: middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" style="display: inline-block; vertical-align: middle;" />
-</p>
+---
 
-### IDEs:
-<p>
-  <img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
- <img align="center" alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
- <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+### Escolha o idioma / Choose language
 
-<div align="left">
-   <div align="left">
-  <img src="https://github.com/user-attachments/assets/51fc98c9-3aff-45a1-a3ae-4cf9a4652072"  style="width: 300px;" />
-</div>
-<div>
- 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3E3EFF&width=435&lines=Thank+you+for+your+attention)](https://git.io/typing-svg)
+[![🇧🇷 Ler em Português](https://img.shields.io/badge/🇧🇷_Ler_em_Português-007ACC?style=for-the-badge&logo=readme&logoColor=white)](/#portuguese)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3E3EFF&section=footer" 
-style="width: 20000px; height: 200px;" />
-</div>
+[![🇺🇸 Read in English](https://img.shields.io/badge/🇺🇸_Read_in_English-007ACC?style=for-the-badge&logo=readme&logoColor=white)](/#english)
+
+---
+
+<a id="portuguese"></a>
+
+### 🇧🇷 Versão em Português
+
+Olá, sou o Arthur. Estou no 3º ano de Desenvolvimento de Sistemas na ETEC Zona Leste 
+
+#### Tecnologias que domino (aprendidas na escola)
+- **HTML & CSS** – Criação de interfaces responsivas e bem estruturadas  
+- **JavaScript** – Lógica de programação e interatividade no front-end  
+- **Java** – Algoritmos, estruturas de dados e desenvolvimento back-end  
+
+#### Aprendizados em andamento (prioridade para emprego)
+- **TypeScript** – JavaScript com tipagem forte  
+- **React** – Desenvolvimento de interfaces componentizadas  
+- **Spring Boot** – Criação de APIs REST com Java  
+- **SQL / MySQL** – Bancos de dados relacionais  
+- **Docker** – Conteinerização para deploy profissional  
+
+Planejo concluir esses cursos até meados de 2026 e adicionar os certificados aqui.
+
+#### Atividades complementares
+- Programa IBM P-TECH (atividades e palestras concluídas)  
+- Horas complementares registradas no SkillBuild  
+
+#### Projetos em destaque
+- **Vixel Sports** – Loja de roupas (TCC em desenvolvimento)  
+- **Algoritmos em Java** – Estruturas de dados e algoritmos  
+- Projetos iniciais com HTML, CSS e JavaScript  
+
+#### Contato
+- Instagram: [@gutemberg190](https://www.instagram.com/gutemberg190/)  
+- LinkedIn: [seu-perfil](https://www.linkedin.com/in/seu-perfil)  
+- E-mail: seuemail@gmail.com  
+
+---
+
+<a id="english"></a>
+
+### 🇺🇸 English Version
+
+Hello, I'm Arthur. I'm in the 3rd year of Systems Development at ETEC Zona Leste and I'm looking for my first opportunity as a **Junior Fullstack or Backend Developer** in 2026.
+
+Currently finishing my **TCC** and preparing for the job market with focus on practical and modern technologies.
+
+#### Technologies I master (learned at school)
+- **HTML & CSS** – Responsive and well-structured interfaces  
+- **JavaScript** – Programming logic and front-end interactivity  
+- **Java** – Algorithms, data structures and back-end development  
+
+#### Currently learning (priority for employment)
+- **TypeScript** – Strongly typed JavaScript  
+- **React** – Componentized interface development  
+- **Spring Boot** – REST APIs with Java  
+- **SQL / MySQL** – Relational databases  
+- **Docker** – Containerization for professional deployment  
+
+I plan to complete these courses by mid-2026 and add the certificates here.
+
+#### Complementary activities
+- IBM P-TECH Program (activities and lectures completed)  
+- Complementary hours registered on SkillBuild  
+
+#### Featured projects
+- **Vixel Sports** – Clothing store (TCC in development)  
+- **Algorithms in Java** – Data structures and algorithms  
+- Initial projects with HTML, CSS and JavaScript  
+
+#### Contact
+- Instagram: [@gutemberg190](https://www.instagram.com/gutemberg190/)  
+- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)  
+- E-mail: your.email@gmail.com  
+
+---
+
+> Frameworks mudam, mas a lógica e os fundamentos permanecem.  
+> Frameworks change, but logic and fundamentals remain.
